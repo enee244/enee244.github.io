@@ -12,13 +12,35 @@ Prof. [Charalampos (Babis) Papamanthou](http://www.ece.umd.edu/~cpap)
 ECE Department
 Email: cpap at umd.edu
 Office: 3409 A.V. Williams Building
-Office hours: Tuesday 2pm-3pm
+Office hours: Tuesday 5pm-6pm
 
 ###TA
 Sailunsi Chen
 Email: sailunsi at umd.edu
 Office: 1145 A.V. Williams Building
 Office hours: Thursday 6pm-7pm
+
+Sailunsi Chen
+Email: sailunsi at umd.edu
+Office: 1145 A.V. Williams Building
+Office hours: Thursday 6pm-7pm
+
+Sailunsi Chen
+Email: sailunsi at umd.edu
+Office: 1145 A.V. Williams Building
+Office hours: Thursday 6pm-7pm
+
+Sailunsi Chen
+Email: sailunsi at umd.edu
+Office: 1145 A.V. Williams Building
+Office hours: Thursday 6pm-7pm
+
+Sailunsi Chen
+Email: sailunsi at umd.edu
+Office: 1145 A.V. Williams Building
+Office hours: Thursday 6pm-7pm
+
+
 
 ###Administrivia
 
