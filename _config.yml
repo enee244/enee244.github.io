@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: ENEE459C
-sub-title: Computer Security
-semester: Fall 2014
+title: ENEE244
+sub-title: Digital Login Design
+semester: Spring 2015
 description:
 locale:
-url: //enee459c.github.io
+url: //enee244.github.io
 
 # Jekyll configuration
 
