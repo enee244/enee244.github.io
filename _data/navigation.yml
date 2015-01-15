@@ -1,0 +1,13 @@
+# Site navigation links
+  
+- title: Home
+  url: /
+  
+- title: Lectures
+  url: /lectures
+  
+- title: Homeworks
+  url: /homeworks
+  
+- title: Syllabus
+  url: /syllabus
