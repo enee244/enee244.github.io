@@ -10,6 +10,7 @@ toc: false
 *Homeworks*
 
 Assignment | Exercises | Date Posted | Due Date
+
 ---------- | ----------- | --------|
 
 Homework 1 |         |     |
