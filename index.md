@@ -21,6 +21,8 @@ The course covers the design and analysis of combinational and synchronous seque
 
 
 ###Administrivia
-
-*	
-*
+* Class meets Tuesdays and Thursdays from 3.30pm to 4.45pm in [KEB 1110](https://www.google.com/maps/@38.991376,-76.937308,3a,75y,233.26h,95.04t/data=!3m4!1e1!3m2!1s3spIc80iU0EbI3zK7zCSNg!2e0!6m1!1e1).
+* Recitations run every Monday. First recitation is on Monday February 2nd. For more specific information about recitations, read here [here](http://enee244.github.io/syllabus/syllabus_244.pdf) carefully.
+* Homeworks will be published on [this webpage](http://enee244.github.io/homeworks). All solutions must be submitted electronically on [Canvas](https://myelms.umd.edu/login).
+* For all course-related information, read [here](http://enee244.github.io/syllabus/syllabus_244.pdf) carefully.
+* fdfd
