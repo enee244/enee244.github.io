@@ -9,10 +9,15 @@ toc: false
 
 *Homeworks*
 
-Assignment | Date Posted | Due Date
+Assignment | Exercises | Date Posted | Due Date
 ---------- | ----------- | --------
-[Homework 1](http://enee244.github.io/homeworks/hw1.pdf) |         |     
-[Homework 2](http://enee244.github.io/homeworks/hw2.pdf) |          |    
-[Homework 3](http://enee244.github.io/homeworks/hw3.pdf) |         |      
-[Homework 4](http://enee244.github.io/homeworks/hw4.pdf) |        |  
-[Homework 5](http://enee244.github.io/homeworks/hw5.pdf) |      | 
+Homework 1 |         |     |
+Homework 2 |          |    |
+Homework 3 |         |     | 
+Homework 4 |        | |
+Homework 5 |      | |
+Homework 6 |         |     |
+Homework 7 |          |    |
+Homework 8 |         |     | 
+Homework 9 |        | |
+Homework 10 |      | |
