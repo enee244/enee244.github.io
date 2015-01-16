@@ -20,7 +20,6 @@ Assignment | Date Posted | Due Date
 *Homeworks*
 
 Assignment | Exercises | Date Posted | Due Date
-
 ---------- | --------- | ----------- | --------
 
 Homework 1 |ds          |dsds      |dsdsds
