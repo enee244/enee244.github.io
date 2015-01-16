@@ -25,4 +25,3 @@ The course covers the design and analysis of combinational and synchronous seque
 * Recitations run every Monday. First recitation is on Monday February 2nd. For more specific information about recitations, read here [here](http://enee244.github.io/syllabus/syllabus_244.pdf) carefully.
 * Homeworks will be published on [this webpage](http://enee244.github.io/homeworks). All solutions must be submitted electronically on [Canvas](https://myelms.umd.edu/login).
 * For all course-related information, read [here](http://enee244.github.io/syllabus/syllabus_244.pdf) carefully.
-* fdfd
