@@ -11,7 +11,7 @@ toc: false
 
 Assignment | Date Posted | Due Date | Exercises |
 ---------- | ----------- | --------
-Homework 1 |     Feb 5  |  Feb 12    | 
+Homework 1 |     Feb 1  |  Feb 9   | 
 Homework 2 |         |      |
 Homework 3|          |     |
 Homework 4 |          | |
