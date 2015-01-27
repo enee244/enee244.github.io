@@ -10,4 +10,4 @@ published: true
 
 Date | Lecture | Readings
 --------- |---------- | --------- 
-01/27/15 | Introduction to Digital Logic | Mano 
+01/27/15 | Introduction to Digital Logic Design | Mano 1.1- 
