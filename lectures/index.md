@@ -10,4 +10,4 @@ published: true
 
 Date | Lecture | Readings
 --------- |---------- | --------- 
-01/27/15 | Introduction to digital logic design. Base conversion. | Mano 1.1-1.4
+01/27/15 | Introduction to digital logic design. Number systems. | Mano 1.1-1.4
