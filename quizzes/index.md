@@ -11,4 +11,4 @@ toc: false
 
 Quiz #     | Date        | Chapter(s)
 ---------- | ----------- | --------
-Quiz 1     | Feb 9       | Mano 1
+Quiz 1     | Feb 9       | Mano 1.1-1.7
