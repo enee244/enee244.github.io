@@ -23,4 +23,4 @@ Date | Lecture | Readings
 03/03/15 ||
 03/05/15 ||
 03/10/15 ||
-03/12/15 | Midterm exam
+03/12/15 | #### Midterm exam
