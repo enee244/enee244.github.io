@@ -14,7 +14,7 @@ Date | Lecture | Readings
 01/29/15 | Complements. Adding binary numbers. Gray and BCD codes. | Mano 1.5-1.7
 02/03/15 | Basic principles of Boolean algebra. | Mano 2.1-2.4
 02/05/15 | Simplification of Boolean expressions. Boolean functions and circuits. | Mano 2.5
-02/10/15 ||
+02/10/15 | From truth tables to Boolean functions. Minterms and maxterms. | Mano 2.6
 02/12/15 ||
 02/17/15 ||
 02/19/15 ||
