@@ -28,6 +28,6 @@ The course covers the design and analysis of combinational and synchronous seque
 * Recitations run every Monday. First recitation is on Monday, February 2nd. For more specific information about recitations, read [here](http://enee244.github.io/syllabus/syllabus_244.pdf) carefully.
 * Homeworks will be published on [this webpage](http://enee244.github.io/homeworks). All solutions must be submitted on paper during your assigned recitation. Grades will be posted on [Canvas](https://myelms.umd.edu/login).
 * For all course-related information, read [here](http://enee244.github.io/syllabus/syllabus_244.pdf) carefully.
-* For UTFs contact information and office hours, read [here](http://enee244.github.io/office_hours/)
+* For UTFs contact information and office hours, read [here](http://enee244.github.io/office_hours/).
 * Main textbook: [Digital Design](http://www.pearsonhighered.com/educator/product/Digital-Design/9780132774208.page) by Mano and Ciletti.
 * Additional textbook (not required): [Digital Principles and Design](http://highered.mheducation.com/sites/0072525037/index.html) by Givone.
