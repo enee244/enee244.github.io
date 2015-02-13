@@ -15,5 +15,5 @@ Daven Patel    | 0201        | M  10am-11am EGR 3111 | dpatel19@umd.edu
 Taqiyyah Safi  | 0202        | M  1pm-2pm   EGR 0111 | taqiyyah.mirza@gmail.com
 Andrew Goffin  | 0203        | W  11am-12pm AVW 1369 | agoffin@terpmail.umd.edu
 Connor McNaney | 0204        | Th 10am-11am AVW 1369 | connormcnaney@yahoo.com
-Nicole Greene  | 0205        | F  1pm-2pm  PSC 3150  | ns_greene@yahoo.com
+Nicole Greene  | 0205        | F  1pm-2pm   PHY 1304 | ns_greene@yahoo.com
 Bryan Zhao     | 0206        | Tu 1pm-2pm   AVW 1369 | bryanzhao94@gmail.com
