@@ -13,3 +13,4 @@ Quiz #     | Date        | Chapter(s)
 ---------- | ----------- | --------
 Quiz 1     | Feb 9       | Mano 1.1-1.7
 Quiz 2     | Feb 16      | Mano 2.1-2.5
+Quiz 3     | Feb 23      | 
