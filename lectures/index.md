@@ -16,7 +16,7 @@ Date | Lecture | Readings
 02/05/15 | Simplification of Boolean expressions. Boolean functions and circuits. | Mano 2.5
 02/10/15 | From truth tables to Boolean functions. Minterms and maxterms. | Mano 2.6
 02/12/15 | Conversion between canonical forms. More digital logic gates.| Mano 2.7-2.8
-02/17/15 ||
+02/17/15 | Cancelled due to snowstorm.|
 02/19/15 ||
 02/24/15 ||
 02/26/15 ||
