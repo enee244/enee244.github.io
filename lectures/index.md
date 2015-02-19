@@ -17,7 +17,7 @@ Date | Lecture | Readings
 02/10/15 | From truth tables to Boolean functions. Minterms and maxterms. | Mano 2.6
 02/12/15 | Conversion between canonical forms. More digital logic gates.| Mano 2.7-2.8
 02/17/15 | *Cancelled due to snow storm*.|
-02/19/15 ||
+02/19/15 | Karnaugh maps.| Mano 3.1-3.4
 02/24/15 ||
 02/26/15 ||
 03/03/15 ||
