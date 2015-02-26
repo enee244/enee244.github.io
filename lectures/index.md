@@ -19,7 +19,7 @@ Date | Lecture | Readings
 02/17/15 | *Cancelled due to snow storm*.|
 02/19/15 | Karnaugh maps.| Mano 3.1-3.4
 02/24/15 | Don't cares. Essential prime implicants. Implementation with NAND gates.| Mano 3.5-3.6
-02/26/15 ||
+02/26/15 | Two-level implementations. Exclusive OR and parity function. | Mano 3.7-3.8
 03/03/15 ||
 03/05/15 ||
 03/10/15 ||
