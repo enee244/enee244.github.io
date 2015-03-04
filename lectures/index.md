@@ -16,7 +16,7 @@ published: true
 |Lecture 4 |02/05/15 | Simplification of Boolean expressions. Boolean functions and circuits. | Mano 2.5
 |Lecture 5 |02/10/15 | From truth tables to Boolean functions. Minterms and maxterms. | Mano 2.6
 |Lecture 6 |02/12/15 | Conversion between canonical forms. More digital logic gates.| Mano 2.7-2.8
-02/17/15 | *Cancelled due to snow storm*.|
+||02/17/15 | *Cancelled due to snow storm*.|
 |Lecture 7 | 02/19/15 | Karnaugh maps.| Mano 3.1-3.4
 |Lecture 8 |02/24/15 | Don't cares. Essential prime implicants. Implementation with NAND gates.| Mano 3.5-3.6
 |Lecture 9 |02/26/15 | Two-level implementations. Exclusive OR and parity function. | Mano 3.7-3.8
