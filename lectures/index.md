@@ -20,7 +20,7 @@ Date | Lecture | Readings
 02/19/15 | Karnaugh maps.| Mano 3.1-3.4
 02/24/15 | Don't cares. Essential prime implicants. Implementation with NAND gates.| Mano 3.5-3.6
 02/26/15 | Two-level implementations. Exclusive OR and parity function. | Mano 3.7-3.8
-03/03/15 ||
+03/03/15 | Half, full and binary adder. Carry lookahead generator.| Mano 4.1-4.5
 03/05/15 ||
 03/10/15 ||
 03/12/15 | Midterm exam
