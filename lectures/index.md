@@ -21,7 +21,7 @@ published: true
 |Lecture 8 |02/24/15 | Don't cares. Essential prime implicants. Implementation with NAND gates.| Mano 3.5-3.6
 |Lecture 9 |02/26/15 | Two-level implementations. Exclusive OR and parity function. | Mano 3.7-3.8
 |Lecture 10 |03/03/15 | Half, full and binary adder. Carry lookahead generator.| Mano 4.1-4.5
-| |03/05/15 | *Cancelled due to snow storm*. |
+|No lecture |03/05/15 | *Cancelled due to snow storm*. |
 ||03/10/15 ||
 |No lecture |03/12/15 | Midterm exam
 |No lecture |03/17/15 |  *Spring break*.| 
