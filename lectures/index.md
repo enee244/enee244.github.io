@@ -22,7 +22,7 @@ published: true
 |Lecture 9 |02/26/15 | Two-level implementations. Exclusive OR and parity function. | Mano 3.7-3.8
 |Lecture 10 |03/03/15 | Half, full and binary adder. Carry lookahead generator.| Mano 4.1-4.5
 |No lecture |03/05/15 | *Cancelled due to snow storm*. |
-||03/10/15 ||
+|Lecture 11 |03/10/15 | Binary subtractor and decimal adder. | Mano 4.6
 |No lecture |03/12/15 | Midterm exam
 |No lecture |03/17/15 |  *Spring break*.| 
 |No lecture |03/19/15 |  *Spring break*.|
