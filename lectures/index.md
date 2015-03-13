@@ -23,7 +23,7 @@ published: true
 |Lecture 10 |03/03/15 | Half, full and binary adder. Carry lookahead generator.| Mano 4.1-4.5
 |No lecture |03/05/15 | *Cancelled due to snow storm*. |
 |Lecture 11 |03/10/15 | Binary subtractor and decimal adder. | Mano 4.6
-|No lecture |03/12/15 | Midterm exam
+|No lecture |03/12/15 | Midterm exam.
 |No lecture |03/17/15 |  *Spring break*.| 
 |No lecture |03/19/15 |  *Spring break*.|
 ||03/24/15 |  | 
