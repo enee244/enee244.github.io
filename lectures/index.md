@@ -26,7 +26,7 @@ published: true
 |No lecture |03/12/15 | Midterm exam.
 |No lecture |03/17/15 |  *Spring break*.| 
 |No lecture |03/19/15 |  *Spring break*.|
-||03/24/15 |  | 
+||03/24/15 | Dependency graph of MSI components. Binary multipliers. Magnitude comparators.  | Mano 4.7-4.8 
 ||03/26/15 |  |
 ||03/31/15 |  | 
 ||04/02/15 ||
