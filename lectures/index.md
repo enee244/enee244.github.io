@@ -9,7 +9,7 @@ published: true
 *Lectures*
 
 |Lecture |Date | Title | Readings
---------- |---------- | --------- 
+|--------- |---------- | --------- 
 |Lecture 1 |01/27/15 | Introduction to digital logic design. Number systems. | Mano 1.1-1.4
 |Lecture 2 |01/29/15 | Complements. Adding binary numbers. Gray and BCD codes. | Mano 1.5-1.7
 |Lecture 3 |02/03/15 | Basic principles of Boolean algebra. | Mano 2.1-2.4
@@ -26,7 +26,7 @@ published: true
 |No lecture |03/12/15 | Midterm exam.
 |No lecture |03/17/15 |  *Spring break*.| 
 |No lecture |03/19/15 |  *Spring break*.|
-|Lecture 12 |03/24/15 | Dependency graph of MSI components. Binary multipliers. Magnitude comparators.  | Mano 4.7-4.8 
+|Lecture 12 |03/24/15 | [Dependency graph of MSI components](http://enee244.github.io/lectures/msi.pdf). Binary multipliers. Magnitude comparators.  | Mano 4.7-4.8 
 ||03/26/15 |  |
 ||03/31/15 |  | 
 ||04/02/15 ||
