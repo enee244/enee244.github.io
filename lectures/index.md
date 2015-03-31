@@ -28,7 +28,7 @@ published: true
 |No lecture |03/19/15 |  *Spring break*.|
 |Lecture 12 |03/24/15 | [Dependency graph of MSI components](http://enee244.github.io/lectures/msi.pdf). Binary multipliers. Magnitude comparators.  | Mano 4.7-4.8 
 |Lecture 13 |03/26/15 | Decoders and multiplexers.  | Mano 4.9 and Mano 4.11
-|Lecture 14 |03/31/15 | [Implementation of an AND gate using transistors](http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/trangate.html). Priority encoders. | Mano 4.10 
+|Lecture 14 |03/31/15 |  Priority encoders. [Building an AND gate using transistors (demo) ](http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/trangate.html).| Mano 4.10 
 ||04/02/15 ||
 ||04/07/15 ||
 ||04/09/15 ||
