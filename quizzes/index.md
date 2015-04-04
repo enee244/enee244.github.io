@@ -18,4 +18,4 @@ Quiz 4     | Mar 2       | Mano 3.5-3.8
 Quiz 5     | Mar 9       | Mano 4.1-4.5
 Midterm Review | Mar 23  | --
 Quiz 6     | Mar 30      | Mano 4.7-4.9, 4.11
-Latch Review | Apr 6     | Mano 5.1 - 5.4
+Latch Review | Apr 6     | Mano 5.1 - 5.3
