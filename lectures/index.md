@@ -30,7 +30,7 @@ published: true
 |Lecture 13 |03/26/15 | Decoders and multiplexers.  | Mano 4.9 and Mano 4.11
 |Lecture 14 |03/31/15 |  Priority encoders. [Building an AND gate using transistors (demo) ](http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/trangate.html).| Mano 4.10 
 |Lecture 15|04/02/15 | Sequential circuits. Storing a bit. SR latches. D latches.| Mano 5.1-5.3
-||04/07/15 ||
+|No lecture |04/07/15 | *Cancelled due to power outage*. |
 ||04/09/15 ||
 ||04/14/15 ||
 ||04/16/15 | |
