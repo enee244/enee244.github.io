@@ -37,7 +37,7 @@ published: true
 ||04/21/15 |  |
 ||04/23/15 ||
 ||04/28/15 ||
-|No lecture. |04/30/15 | Midterm exam. |
+|No lecture |04/30/15 | Midterm exam. |
 ||05/05/15 ||
 ||05/07/15 ||
 ||05/12/15 ||
