@@ -31,7 +31,7 @@ published: true
 |Lecture 14 |03/31/15 |  Priority encoders. [Building an AND gate using transistors (demo) ](http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/trangate.html).| Mano 4.10 
 |Lecture 15|04/02/15 | Sequential circuits. Storing a bit. SR latches. D latches.| Mano 5.1-5.3
 |No lecture |04/07/15 | *Cancelled due to power outage*. |
-||04/09/15 ||
+|Lecture 16 |04/09/15 | Edge-triggered flip-flops. D flip-flop. JK flip-flop. T flip-flop.  |
 ||04/14/15 ||
 ||04/16/15 | |
 ||04/21/15 |  |
