@@ -32,7 +32,7 @@ published: true
 |Lecture 15|04/02/15 | Sequential circuits. Storing a bit. SR latches. D latches.| Mano 5.1-5.3
 |No lecture |04/07/15 | *Cancelled due to power outage*. |
 |Lecture 16 |04/09/15 | Edge-triggered flip-flops. D flip-flop. JK flip-flop. T flip-flop.| Mano 5.4
-||04/14/15 ||
+|Lecture 17 |04/14/15 | Analysis of clocked sequential circuits. | Mano 5.5
 ||04/16/15 | |
 ||04/21/15 |  |
 ||04/23/15 ||
