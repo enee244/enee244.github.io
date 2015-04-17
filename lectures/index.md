@@ -33,7 +33,7 @@ published: true
 |No lecture |04/07/15 | *Cancelled due to power outage*. |
 |Lecture 16 |04/09/15 | Edge-triggered flip-flops. D flip-flop. JK flip-flop. T flip-flop.| Mano 5.4
 |Lecture 17 |04/14/15 | Analysis of clocked sequential circuits. State equations, tables and diagrams. | Mano 5.5
-|Lecture 18 |04/16/15 | Design of sequential circuits. | Mano 5.7 
+|Lecture 18 |04/16/15 | Design of sequential circuits. From state diagrams to sequential circuits. | Mano 5.7 
 ||04/21/15 |  |
 ||04/23/15 ||
 ||04/28/15 ||
