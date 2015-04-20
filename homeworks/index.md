@@ -18,6 +18,6 @@ Homework 4 |     Mar 1   |  Mar 9   | Mano 3.15ad, 3.20, 3.21, 3.22, 3.23, and 3
 Homework 5 |     Mar 23  |  Mar 30  | Mano 4.1, 4.2, 4.3, 4.4, 4.5, 4.8, 4.9, and 4.21
 Homework 6 |     Mar 29  |  Apr 6   | Mano 4.20a, 4.26, 4.28, 4.31, 4.33, 4.35, and the question on [ELMS](https://myelms.umd.edu/courses/1131242/discussion_topics/2600746)
 Homework 7 |     Apr 12  |  Apr 20  | Mano 5.1 through 5.11
-Homework 8 |             |          |
+Homework 8 |     Apr 20  |  Apr 27  | Mano 5.12 through 5.20
 Homework 9 |             |          |
 Homework 10|             |          |
