@@ -34,9 +34,9 @@ published: true
 |Lecture 16 |04/09/15 | Edge-triggered flip-flops. D flip-flop. JK flip-flop. T flip-flop.| Mano 5.4
 |Lecture 17 |04/14/15 | Analysis of clocked sequential circuits. State equations, tables and diagrams. | Mano 5.5
 |Lecture 18 |04/16/15 | Design of sequential circuits. From state diagrams to sequential circuits. | Mano 5.7 
-||04/21/15 |  |
-||04/23/15 ||
-||04/28/15 ||
+|Lecture 19 |04/21/15 | Sequential circuits examples: 3-bit counters. For-loops. Sequence recognizers. |
+|lecture 20 |04/23/15 ||
+|Lectute 21 |04/28/15 ||
 |No lecture |04/30/15 | Midterm exam. |
 ||05/05/15 ||
 ||05/07/15 ||
