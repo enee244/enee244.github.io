@@ -35,12 +35,12 @@ published: true
 |Lecture 17 |04/14/15 | Analysis of clocked sequential circuits. State equations, tables and diagrams. | Mano 5.5
 |Lecture 18 |04/16/15 | Design of sequential circuits. From state diagrams to sequential circuits. | Mano 5.7 
 |Lecture 19 |04/21/15 | Sequential circuits examples: 3-bit counters. For-loops. Sequence recognizers. | Mano 5.7
-|lecture 20 |04/23/15 ||
+|Lecture 20 |04/23/15 ||
 |Lectute 21 |04/28/15 ||
 |No lecture |04/30/15 | Midterm exam. |
-||05/05/15 ||
-||05/07/15 ||
-||05/12/15 ||
+|Lecture 22|05/05/15 ||
+|Lecture 23|05/07/15 ||
+|Lecture 24|05/12/15 ||
 |No lecture |05/20/15 |Final exam|
 
 
