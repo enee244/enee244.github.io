@@ -36,7 +36,7 @@ published: true
 |Lecture 18 |04/16/15 | Design of sequential circuits. From state diagrams to sequential circuits. | Mano 5.7 
 |Lecture 19 |04/21/15 | Sequential circuits examples: 3-bit counters. For-loops. Sequence recognizers. | Mano 5.7
 |Lecture 20 |04/23/15 ||
-|Lectute 21 |04/28/15 ||
+|Lecture 21 |04/28/15 ||
 |No lecture |04/30/15 | Midterm exam. |
 |Lecture 22|05/05/15 ||
 |Lecture 23|05/07/15 ||
