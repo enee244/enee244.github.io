@@ -35,7 +35,7 @@ published: true
 |Lecture 17 |04/14/15 | Analysis of clocked sequential circuits. State equations, tables and diagrams. | Mano 5.5
 |Lecture 18 |04/16/15 | Design of sequential circuits. From state diagrams to sequential circuits. | Mano 5.7 
 |Lecture 19 |04/21/15 | Sequential circuits examples: 3-bit counters. For-loops. Sequence recognizers. | Mano 5.7
-|Lecture 20 |04/23/15 ||
+|Lecture 20 |04/23/15 | Parallel load registers. Shift registers.| Mano 6.1-6.2
 |Lecture 21 |04/28/15 ||
 |No lecture |04/30/15 | Midterm exam. |
 |Lecture 22|05/05/15 ||
