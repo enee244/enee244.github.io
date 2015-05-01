@@ -11,7 +11,7 @@ toc: false
 
 UTF            | Section     | Office Hours          | E-mail
 ----------     | ----------- | --------              |----------
-Daven Patel    | 0201        | F  3pm-4pm   AVW 3400 | dpatel19@umd.edu
+Daven Patel    | 0201        | By appointment        | dpatel19@umd.edu
 Taqiyyah Safi  | 0202        | Tu 1pm-2pm   EGR 0111 | taqiyyah.mirza@gmail.com
 Andrew Goffin  | 0203        | W  11am-12pm AVW 1369 | agoffin@terpmail.umd.edu
 Connor McNaney | 0204        | Th 10am-11am AVW 1369 | connormcnaney@yahoo.com
