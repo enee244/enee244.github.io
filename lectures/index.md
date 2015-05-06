@@ -38,7 +38,7 @@ published: true
 |Lecture 20 |04/23/15 | Parallel load registers. Shift registers.| Mano 6.1-6.2
 |Lecture 21 |04/28/15 | Universal register. Binary and decimal ripple counters.| Mano 6.3
 |No lecture |04/30/15 | Midterm exam. |
-|Lecture 22|05/05/15 ||
+|Lecture 22|05/05/15 | Synchronous counters. Ring counters.| Mano 6.4 and Mano 6.5
 |Lecture 23|05/07/15 ||
 |Lecture 24|05/12/15 ||
 |No lecture |05/20/15 |Final exam|
