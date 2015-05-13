@@ -40,7 +40,7 @@ published: true
 |No lecture |04/30/15 | Midterm exam. |
 |Lecture 22|05/05/15 | Synchronous counters. Ring counters.| Mano 6.4 and Mano 6.5
 |Lecture 23|05/07/15 | Binary cells and random access memory (RAM). | Mano 7.1-7.4
-|Lecture 24|05/12/15 ||
-|No lecture |05/20/15 |Final exam|
+|Lecture 24|05/12/15 | Efficient decoders. Read only memory (ROM). | Mano 7.5
+|No lecture |05/20/15 |Final exam. KEB 1110, 10:30am to 12:30am|
 
 
